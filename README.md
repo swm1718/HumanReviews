@@ -10,6 +10,8 @@ The relevant materials are:
 - The ``Reviews`` folder that contains 13 human reviews with no prior information.
 - The ``Reviews_SAD`` folder that contains 10 human reviews starting from the ground truth speech segments (not distinguishing individual speakers).
 - The ``Reviews_Blank`` folder that contains 10 human reviews starting from the blank ground truth speaker segment labels.
+- The ``rttm_gt1``, ``rttm_gt2``, ``rttm_gt3`` and ``rttm_gt4`` folders that contain the relevant ground truth RTTM files.
+- The NIST code ``md-eval-v21.pl`` for scoring.
 
 One of the Jupyter notebooks ``humanTests2.ipynb`` used to inspect and explore the results is also included along with the custom dependencies ``AnalyseResults.py``, ``evaluateResults.py`` and ``OverlapFunctions.py``, these are a bit of a mess.  The cells that run ``dscore`` refer to the diarization scoring package at https://github.com/nryant/dscore.
 
