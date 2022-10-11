@@ -1,4 +1,4 @@
-# HumanReviews
+# Human Reviews for Speaker Diarization
 This GitHub site sets out the results of the human reviews speaker diarization experiments carried out for the paper ``Studying Human-Based Speaker Diarization and Comparing to State-of-the-Art Systems`` by Simon W. McKnight, Aidan O. T. Hogg, Vincent W. Neo and Patrick A. Naylor presented at APSIPA 2022.
 
 ## Reviews
