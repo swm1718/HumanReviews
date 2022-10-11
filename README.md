@@ -10,3 +10,4 @@ The relevant materials are:
 - The ``Reviews`` folder that contains 13 human reviews with no prior information.
 - The ``Reviews_SAD`` folder that contains 10 human reviews starting from the ground truth speech segments (not distinguishing individual speakers).
 - The ``Reviews_Blank`` folder that contains 10 human reviews starting from the blank ground truth speaker segment labels.
+One of the Jupyter notebooks ``humanTests2.ipynb`` used to inspect and explore the results is also included along with the custom dependencies ``AnalyseResults.py``, ``evaluateResults.py`` and ``OverlapFunctions.py``, these are a bit of a mess.
