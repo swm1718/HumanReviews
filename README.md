@@ -15,4 +15,4 @@ The relevant materials are:
 
 One of the Jupyter notebooks ``humanTests2.ipynb`` used to inspect and explore the results is also included along with the custom dependencies ``AnalyseResults.py``, ``evaluateResults.py`` and ``OverlapFunctions.py``, these are a bit of a mess.  The cells that run ``dscore`` refer to the diarization scoring package at https://github.com/nryant/dscore.
 
-A simple Colab notebook as been set up at https://colab.research.google.com/drive/1KC4DoTxI8ATUXksW7T1BvPTEorYxKxQH or https://tinyurl.com/4ys4ba7t that can be tested.
+A simple Colab notebook has been set up at https://colab.research.google.com/drive/1KC4DoTxI8ATUXksW7T1BvPTEorYxKxQH or https://tinyurl.com/4ys4ba7t that can be tested.
